@@ -5,10 +5,24 @@ body {
     color: red;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    box-shadow: /// takes 3 value 
-
-    text-shadow: 
+  
 
 }
 
+    ul.primary {
+      text-align: left;
+    }
 
+footer.second{
+  color: white 
+
+}
+   
+
+   
+
+    img{
+      opacity: 0.5;
+      box-shadow: 2px 2px 5px red;
+
+    }
